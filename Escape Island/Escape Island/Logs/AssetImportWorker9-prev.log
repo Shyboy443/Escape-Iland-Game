@@ -1,0 +1,333 @@
+Using pre-set license
+Built from '2021.3/staging' branch; Version is '2021.3.25f1 (68ef2c4f8861) revision 6876972'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit CoreSingleLanguage' Language: 'en' Physical Memory: 15774 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.3.25f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker9
+-projectPath
+C:/Users/CHATHUMINA/Music/IM/GT/Lab 2 ecape room game/New folder/Escape Island
+-logFile
+Logs/AssetImportWorker9.log
+-srvPort
+52191
+Successfully changed project path to: C:/Users/CHATHUMINA/Music/IM/GT/Lab 2 ecape room game/New folder/Escape Island
+C:/Users/CHATHUMINA/Music/IM/GT/Lab 2 ecape room game/New folder/Escape Island
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [28612] Host "[IP] 192.168.1.6 [Port] 0 [Flags] 2 [Guid] 52862161 [EditorId] 52862161 [Version] 1048832 [Id] WindowsEditor(7,ROG-G15) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [28612] Host "[IP] 192.168.1.6 [Port] 0 [Flags] 2 [Guid] 52862161 [EditorId] 52862161 [Version] 1048832 [Id] WindowsEditor(7,ROG-G15) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+Refreshing native plugins compatible for Editor in 121.49 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.25f1 (68ef2c4f8861)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.25f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/CHATHUMINA/Music/IM/GT/Lab 2 ecape room game/New folder/Escape Island/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3050 Ti Laptop GPU (ID=0x25a0)
+    Vendor:   NVIDIA
+    VRAM:     3962 MB
+    Driver:   32.0.15.5612
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.25f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.25f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.25f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56260
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.25f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.25f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.017584 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 92.14 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.909 seconds
+Domain Reload Profiling:
+	ReloadAssembly (910ms)
+		BeginReloadAssembly (171ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (2ms)
+		EndReloadAssembly (547ms)
+			LoadAssemblies (166ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (142ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (29ms)
+			SetupLoadedEditorAssemblies (304ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (13ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (92ms)
+				BeforeProcessingInitializeOnLoad (3ms)
+				ProcessInitializeOnLoadAttributes (138ms)
+				ProcessInitializeOnLoadMethodAttributes (57ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.014041 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\CHATHUMINA\Music\IM\GT\Lab 2 ecape room game\New folder\Escape Island\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\CHATHUMINA\Music\IM\GT\Lab 2 ecape room game\New folder\Escape Island\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.16 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.010 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1010ms)
+		BeginReloadAssembly (156ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (37ms)
+		EndReloadAssembly (746ms)
+			LoadAssemblies (110ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (235ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (50ms)
+			SetupLoadedEditorAssemblies (336ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (9ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (90ms)
+				ProcessInitializeOnLoadAttributes (205ms)
+				ProcessInitializeOnLoadMethodAttributes (16ms)
+				AfterProcessingInitializeOnLoad (15ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 1.02 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3066 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 22 unused Assets / (57.8 KB). Loaded Objects now: 3557.
+Memory consumption went from 206.1 MB to 206.0 MB.
+Total: 2.888000 ms (FindLiveObjects: 0.227200 ms CreateObjectMapping: 0.166700 ms MarkObjects: 2.410700 ms  DeleteObjects: 0.082600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 5069.987947 seconds.
+  path: Assets/PolygonWesternFrontier/Models/SM_Bld_Quarry_Framing_02.fbx
+  artifactKey: Guid(6b5eb29a876084b4c8a8a6bae2210008) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonWesternFrontier/Models/SM_Bld_Quarry_Framing_02.fbx using Guid(6b5eb29a876084b4c8a8a6bae2210008) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57e9e8ab6df5baca6b0d37666aac89f7') in 0.237375 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/PolygonWesternFrontier/Models/SM_Env_Mine_Framing_01.fbx
+  artifactKey: Guid(91365ea74a0bdcf41b9b6220db2aac9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonWesternFrontier/Models/SM_Env_Mine_Framing_01.fbx using Guid(91365ea74a0bdcf41b9b6220db2aac9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '708a54f65a1cc503429f2ccabea839fd') in 0.029926 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.463313 seconds.
+  path: Assets/PolygonNatureBiomes/PNB_Tropical_Jungle/FX/FX_Prefabs/FX_Leaves_Tropical_01.prefab
+  artifactKey: Guid(300572adb286eba4386f949f06436630) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonNatureBiomes/PNB_Tropical_Jungle/FX/FX_Prefabs/FX_Leaves_Tropical_01.prefab using Guid(300572adb286eba4386f949f06436630) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '360a36153a735ee5b24182f28161098d') in 3.156140 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.705053 seconds.
+  path: Assets/PolygonNatureBiomes/PNB_Tropical_Jungle/Models/Collision/SM_Env_Bush_Palm_01_Collision.fbx
+  artifactKey: Guid(f65bca7345def3c48b5fedf830658932) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonNatureBiomes/PNB_Tropical_Jungle/Models/Collision/SM_Env_Bush_Palm_01_Collision.fbx using Guid(f65bca7345def3c48b5fedf830658932) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f851a05fdfe38bb2d849ba0e462d6090') in 0.063164 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/PolygonPirates/Models/SM_Env_GrassPatch_03.fbx
+  artifactKey: Guid(dbd2b4203cd37e242b58bdbbfab585b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonPirates/Models/SM_Env_GrassPatch_03.fbx using Guid(dbd2b4203cd37e242b58bdbbfab585b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92f7765dcbb22ddc10321853b42e3a80') in 0.034829 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/PolygonPirates/Models/SM_Env_PalmTree_02.fbx
+  artifactKey: Guid(709a503c6402d4c449bf92d59d0a0821) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonPirates/Models/SM_Env_PalmTree_02.fbx using Guid(709a503c6402d4c449bf92d59d0a0821) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04c1a9a38acb0c7d0477ebffa0f43ff6') in 0.040397 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/PolygonNatureBiomes/PNB_Tropical_Jungle/Prefabs/SM_Env_Fern_Part_04.prefab
+  artifactKey: Guid(4d44dbb9ade01a441a3b05f7bd0ed32b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonNatureBiomes/PNB_Tropical_Jungle/Prefabs/SM_Env_Fern_Part_04.prefab using Guid(4d44dbb9ade01a441a3b05f7bd0ed32b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6e49a5f769979846d2e8bfc5ce69296') in 0.116388 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/PolygonNatureBiomes/PNB_Tropical_Jungle/Models/SM_Env_Fern_Part_04.fbx
+  artifactKey: Guid(40c3f04756c6e6e4db1b65e38ab4c899) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonNatureBiomes/PNB_Tropical_Jungle/Models/SM_Env_Fern_Part_04.fbx using Guid(40c3f04756c6e6e4db1b65e38ab4c899) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a736ffd7bc082acaa7dbc54a3a74ff00') in 0.050912 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/PolygonPirates/Models/CollisionCustom/SM_Env_PalmTree_03_Collision.fbx
+  artifactKey: Guid(5290b6506556af74ba662bb451ad1cb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonPirates/Models/CollisionCustom/SM_Env_PalmTree_03_Collision.fbx using Guid(5290b6506556af74ba662bb451ad1cb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '922855615d3a73e03d3b6953bb601531') in 0.037703 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/PolygonNatureBiomes/PNB_Tropical_Jungle/Models/Collision/SM_Env_Bush_Palm_04_Collision.fbx
+  artifactKey: Guid(c11cb050fe44518469c6c1073639adc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonNatureBiomes/PNB_Tropical_Jungle/Models/Collision/SM_Env_Bush_Palm_04_Collision.fbx using Guid(c11cb050fe44518469c6c1073639adc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5be25b3199e8098681f3335d2d56c9d5') in 0.046860 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000055 seconds.
+  path: Assets/PolygonNatureBiomes/PNB_Tropical_Jungle/Models/SM_Env_Fern_Part_02.fbx
+  artifactKey: Guid(b37fdf776e4f5a74faff06a679710d29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonNatureBiomes/PNB_Tropical_Jungle/Models/SM_Env_Fern_Part_02.fbx using Guid(b37fdf776e4f5a74faff06a679710d29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09a9569b671773f17dc315e8c425a606') in 0.042805 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000079 seconds.
+  path: Assets/PolygonNatureBiomes/PNB_Tropical_Jungle/Models/SM_Env_Fern_Part_01.fbx
+  artifactKey: Guid(1e68eba8239111f45a77f31606f157ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonNatureBiomes/PNB_Tropical_Jungle/Models/SM_Env_Fern_Part_01.fbx using Guid(1e68eba8239111f45a77f31606f157ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7904809c92e0798fabe62f376ba8c0ca') in 0.061827 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000086 seconds.
+  path: Assets/PolygonNatureBiomes/PNB_Tropical_Jungle/Models/Collision/SM_Env_Tree_Palm_02_Collision.fbx
+  artifactKey: Guid(1b80be76edf109f4a8796f411e49a1f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonNatureBiomes/PNB_Tropical_Jungle/Models/Collision/SM_Env_Tree_Palm_02_Collision.fbx using Guid(1b80be76edf109f4a8796f411e49a1f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93a12795800ae27f412a42f545579b3e') in 0.045286 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000082 seconds.
+  path: Assets/PolygonNatureBiomes/PNB_Tropical_Jungle/Models/SM_Env_Tree_Palm_02.fbx
+  artifactKey: Guid(50763c0c346f1c54c97f14a69cedb68d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonNatureBiomes/PNB_Tropical_Jungle/Models/SM_Env_Tree_Palm_02.fbx using Guid(50763c0c346f1c54c97f14a69cedb68d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0235bf36d8a8459ff0a98bfd4310c2d4') in 0.075403 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/PolygonNatureBiomes/PNB_Tropical_Jungle/Models/SM_Env_Tree_Palm_01.fbx
+  artifactKey: Guid(f7253104d7a516e4e8010904f9266cdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonNatureBiomes/PNB_Tropical_Jungle/Models/SM_Env_Tree_Palm_01.fbx using Guid(f7253104d7a516e4e8010904f9266cdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '455c97971a3b1ceb05624560c97b98f3') in 0.084833 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 60.204330 seconds.
+  path: Assets/PolygonPirates/Models/SM_Env_Grass_01.fbx
+  artifactKey: Guid(ceb7327cacd154f41bc02110aec5a22a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonPirates/Models/SM_Env_Grass_01.fbx using Guid(ceb7327cacd154f41bc02110aec5a22a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aaff51b690bdbf7cd4298eada341afcc') in 0.039592 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000080 seconds.
+  path: Assets/PolygonNatureBiomes/PNB_Tropical_Jungle/Models/SM_Env_Grass_Tall_Plane_01.fbx
+  artifactKey: Guid(2503b712ddf01ff4081b54e0609580c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonNatureBiomes/PNB_Tropical_Jungle/Models/SM_Env_Grass_Tall_Plane_01.fbx using Guid(2503b712ddf01ff4081b54e0609580c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa74ba852ec2014bf8ace25951d8ad51') in 0.029434 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000063 seconds.
+  path: Assets/PolygonNatureBiomes/PNB_Tropical_Jungle/Prefabs/SM_Env_Grass_Bush_01.prefab
+  artifactKey: Guid(597245baab5f7c149896c7cfecc011db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonNatureBiomes/PNB_Tropical_Jungle/Prefabs/SM_Env_Grass_Bush_01.prefab using Guid(597245baab5f7c149896c7cfecc011db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31ab022784c5362525bdb063653ee531') in 0.067976 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000063 seconds.
+  path: Assets/PolygonNatureBiomes/PNB_Tropical_Jungle/Prefabs/SM_Env_Grass_Short_Plane_01.prefab
+  artifactKey: Guid(c226c998ad6f3e24d9bbd6046ca1c4e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonNatureBiomes/PNB_Tropical_Jungle/Prefabs/SM_Env_Grass_Short_Plane_01.prefab using Guid(c226c998ad6f3e24d9bbd6046ca1c4e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '036e66f1473a2fbfa8ef98f79cbc237a') in 0.054899 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000072 seconds.
+  path: Assets/PolygonNatureBiomes/PNB_Tropical_Jungle/Prefabs/SM_Env_Grass_Tall_Clump_01.prefab
+  artifactKey: Guid(302efc5c8fbbf6a4983c8d14f52b15f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonNatureBiomes/PNB_Tropical_Jungle/Prefabs/SM_Env_Grass_Tall_Clump_01.prefab using Guid(302efc5c8fbbf6a4983c8d14f52b15f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62d46ca7638bfe97ab97bc9d275d7463') in 0.043046 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000099 seconds.
+  path: Assets/PolygonWesternFrontier/Prefabs/Environments/SM_Env_Grass_Desert_01.prefab
+  artifactKey: Guid(232230736ca35364491649faf7d527f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonWesternFrontier/Prefabs/Environments/SM_Env_Grass_Desert_01.prefab using Guid(232230736ca35364491649faf7d527f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ea696272febb15484dde1bd40b3ee55') in 0.034299 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/PolygonNatureBiomes/PNB_Tropical_Jungle/Models/SM_Env_Grass_Tall_Clump_01.fbx
+  artifactKey: Guid(4da3e848ad01ab24b90028b043f28867) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonNatureBiomes/PNB_Tropical_Jungle/Models/SM_Env_Grass_Tall_Clump_01.fbx using Guid(4da3e848ad01ab24b90028b043f28867) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a29f8a71858e69613a1c00f200a2e89') in 0.062813 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/PolygonNatureBiomes/PNB_Tropical_Jungle/Models/SM_Env_Grass_Bush_01.fbx
+  artifactKey: Guid(e271ace6093b73c46ba933f6fed7c630) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonNatureBiomes/PNB_Tropical_Jungle/Models/SM_Env_Grass_Bush_01.fbx using Guid(e271ace6093b73c46ba933f6fed7c630) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd64dd56161f57775261452dee88b547') in 0.077100 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/PolygonWesternFrontier/Models/SM_Env_ShrubGrass_01.fbx
+  artifactKey: Guid(cc509606fc8986c44a1fa04609fda746) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonWesternFrontier/Models/SM_Env_ShrubGrass_01.fbx using Guid(cc509606fc8986c44a1fa04609fda746) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57f831d30c36d73233e4ce83b4892bec') in 0.040210 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000083 seconds.
+  path: Assets/PolygonNatureBiomes/PNB_Tropical_Jungle/Prefabs/SM_Env_Grass_Short_Clump_03.prefab
+  artifactKey: Guid(8578e5a32dd395c40940cbc0879f13ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonNatureBiomes/PNB_Tropical_Jungle/Prefabs/SM_Env_Grass_Short_Clump_03.prefab using Guid(8578e5a32dd395c40940cbc0879f13ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '188ef206e76d41dbecf8942b6dbe6fd4') in 0.058986 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000062 seconds.
+  path: Assets/PolygonNatureBiomes/PNB_Tropical_Jungle/Prefabs/SM_Env_Grass_Med_Clump_02.prefab
+  artifactKey: Guid(2776eea652d10a443843f366acaef1b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonNatureBiomes/PNB_Tropical_Jungle/Prefabs/SM_Env_Grass_Med_Clump_02.prefab using Guid(2776eea652d10a443843f366acaef1b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04091f8ccd482165150a77b25b23e2e5') in 0.059083 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000072 seconds.
+  path: Assets/PolygonNatureBiomes/PNB_Tropical_Jungle/Prefabs/SM_Env_Grass_Tall_Clump_03.prefab
+  artifactKey: Guid(612b706d04fcad14cabd6bc39add9aa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonNatureBiomes/PNB_Tropical_Jungle/Prefabs/SM_Env_Grass_Tall_Clump_03.prefab using Guid(612b706d04fcad14cabd6bc39add9aa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a3eb0c22205e4eb872fdc014da54318') in 0.041165 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
